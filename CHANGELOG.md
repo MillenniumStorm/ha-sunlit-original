@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/cedricziel/ha-sunlit/compare/v0.2.3...v0.3.0) (2025-09-10)
+
+
+### Features
+
+* add comprehensive testing infrastructure ([1175449](https://github.com/cedricziel/ha-sunlit/commit/11754491d154a7b7e7feda81ecd9547fe906b698))
+
+
+### Bug Fixes
+
+* downgrade pytest-cov to resolve coverage version conflict ([db0c3a5](https://github.com/cedricziel/ha-sunlit/commit/db0c3a56d762b88c7908f239fd7b87ce34aca69a))
+* upgrade pytest-homeassistant-custom-component==0.13.278 ([5ea7e35](https://github.com/cedricziel/ha-sunlit/commit/5ea7e35c5232cd3854fdfd71cdbc4d642c77c795))
+
 ## [0.2.3](https://github.com/cedricziel/ha-sunlit/compare/v0.2.2...v0.2.3) (2025-09-10)
 
 
